@@ -16,7 +16,7 @@ const Feed = () => {
       id: 2,
       name: 'Steev',
       role: 'Tech Lead',
-      text: "Our team just launched [Project/Feature]! Proud of the hard work that went into this. Check it out at [link]. #ProductDevelopment #TeamWork",
+      text: "we are hiring gpt developer",
       avatar: 'https://i.pinimg.com/564x/a6/76/5b/a6765bb2f1701d1eafbb8e30605d0322.jpg'
     },
     {
